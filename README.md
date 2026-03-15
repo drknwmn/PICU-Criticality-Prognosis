@@ -1,4 +1,4 @@
-# PICU_Criticality
+# PICU_Criticality_Prognosis
 
 EEG Criticality and Complexity machine learning analyses for pediatric ICU (PICU) prognosis of functional outcome/recovery.
 
