@@ -1,4 +1,4 @@
-# PICU_Criticality_Prognosis
+# PICU-Criticality-Prognosis
 
 By: Derek Newman 
 
